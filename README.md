@@ -1,4 +1,4 @@
-#OpenWRT-Passwall
+# OpenWRT-Passwall
 # How to install Passwall + Xray & Sing-Box on openwrt
 
 # System Requirements :
